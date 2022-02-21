@@ -1,0 +1,24 @@
+{
+  "name": "Hominoid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^16.0.4",
+    "express": "^4.17.1",
+    "express-all-allow": "^1.0.1",
+    "pngjs": "^6.0.0",
+    "rfb2": "^0.2.2",
+    "socket.io": "^4.4.0",
+    "socket.io-client": "^4.4.0"
+  },
+  "devDependencies": {
+    "electron-wix-msi": "^3.2.0"
+  }
+}
